@@ -345,7 +345,7 @@
  *
  * Arguments:
  * * speaker - The atom who is saying this message
- * * message_language - The language that the message was said in
+ * * message_language - The language that the message is said in
  * * raw_message - The text content of the message
  * * spans - Additional classes to be added to the message
  */
